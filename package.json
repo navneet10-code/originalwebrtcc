@@ -1,5 +1,5 @@
 {
-  "name": "node-example",
+  "name": "react-videocall",
   "version": "1.0.0",
   "description": "React VideoCall App",
   "scripts": {
@@ -18,7 +18,7 @@
     "classnames": "2.2.6",
     "css-loader": "3.2.0",
     "expose-loader": "0.7.5",
-    "express": "3.1.x",
+    "express": "4.17.1",
     "file-loader": "4.2.0",
     "font-awesome": "4.7.0",
     "html-webpack-plugin": "3.2.0",
@@ -36,8 +36,7 @@
     "url-loader": "2.1.0",
     "webpack": "4.39.2",
     "webpack-cli": "3.3.7",
-    "webrtc-adapter": "6.2.1",
-    "pg": "2.x"
+    "webrtc-adapter": "6.2.1"
   },
   "devDependencies": {
     "eslint": "5.16.0",
@@ -51,8 +50,7 @@
   },
   "engines": {
     "node": "10.16.3",
-    "yarn": "1.17.3",
-    "npm": "1.2.x"
+    "yarn": "1.17.3"
   },
   "repository": {
     "type": "git",
