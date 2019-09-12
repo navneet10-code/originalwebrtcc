@@ -11,6 +11,7 @@ password : 'PLSEEGHnWv'
 };
 
 var connection;
+console.log('insideeeeeeeeee db');
 
 function handleDisconnect() {
     console.log('1. connecting to db:');
