@@ -49,7 +49,7 @@ app.get('/', function(request, response) {
             console.log('error: ', err);
             throw err;
         }
-        response.send(['Hello World!!!! HOLA MUNDO!!!!', rows]);
+       // response.send(['Hello World!!!! HOLA MUNDO!!!!', rows]);
     });
 });
 
